@@ -1,3 +1,6 @@
+== Fork Notes
+added the ability to change app_title when scanning QR code
+
 = Devise Google Authenticator
 
 This is a devise[https://github.com/plataformatec/devise] extension to allow your app to utilise Google Authenticator[http://code.google.com/p/google-authenticator/] for Time-based One Time Passwords (TOTP).
